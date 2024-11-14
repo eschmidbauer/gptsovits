@@ -1,0 +1,4 @@
+include gptsovits/tools/i18n/locale/*
+include gptsovits/tools/uvr5/lib/lib_v5/modelparams/*
+include gptsovits/tools/uvr5/lib/lib_v5/modelparams/*
+include gptsovits/text/*
